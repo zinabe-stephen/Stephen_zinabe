@@ -1,0 +1,92 @@
+@media(min-width:576px){
+    nav{
+        max-width: 1000px;
+    }
+    .home img{
+        max-width: 2000px;
+        background-color: black;
+    }
+    .home h1{
+        max-width:400px;
+        margin: 0 auto;
+    }
+    .home-content{
+        margin: 0 auto;
+        padding: 10px;
+    }
+}
+
+
+
+
+
+/**/
+
+@media(min-width:768px){
+    .contact{
+        max-width: 765px;
+    }
+    .skills{
+        max-width:765px ;
+    }
+    .about{
+        max-width: 765px;
+    }
+    .services{
+        max-width: 765px;
+    }
+    .home{
+        max-width: 765px;
+    }
+    nav{
+        max-width: 765px;
+    }
+}
+
+
+
+/**/
+@media(min-width:992px){
+    nav{
+        max-width: 982px;
+    }
+    .home{
+        max-width: 982px;
+    }
+    .about{
+        max-width: 982px;
+    }
+    .services{
+        max-width: 982px;
+    }
+    .skills{
+        max-width: 982px;
+    }
+    .contact{
+        max-width: 982px;
+    }
+
+}
+
+/**/
+@media(min-width:1200px){
+    nav{
+        max-width: 1190px;
+    }
+    .home{
+        max-width: 1190px;
+    }
+    .about{
+        max-width: 1190px;
+    }
+    .services{
+        max-width: 1190px;
+    }
+    .skills{
+        max-width: 1190px;
+
+    }
+    .contact{
+        max-width: 1190px;
+    }
+}
